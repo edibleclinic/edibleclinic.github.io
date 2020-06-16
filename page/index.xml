@@ -13,12 +13,11 @@
     
     <item>
       <title></title>
-      <link>https://edibleclinic.github.io/page/photo-sharing-policy/</link>
+      <link>https://edibleclinic.github.io/subscribe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>edibleclinic@gmail.com (The Edible Clinic)</author>
-      <guid>https://edibleclinic.github.io/page/photo-sharing-policy/</guid>
-      <description>I love and appreciate when people share our content! However, please include a link back to the corresponding page on my site, listing full credit to The Edible Clinic. Use of our photos without our permission and without proper attribution is prohibited.
-We do not allow our images to be directly monetized through affiliate marketing, whether on a website or social media platforms. Please contact us via email to seek permission for the use of any images outside of the guidelines listed above.</description>
+      <guid>https://edibleclinic.github.io/subscribe/</guid>
+      <description>Subscribe for monthly recommendations on cleaner, safer skincare. #mc_embed_signup{background:#fff; clear:left; font:14px &#39;Quattrocento&#39;, &#39;Times New Roman&#39;, serif;; } /* Add your own Mailchimp form style overrides in your site stylesheet or in this style block. We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */  Subscribe * indicates required Email Address *           </description>
     </item>
     
     <item>
@@ -27,7 +26,7 @@ We do not allow our images to be directly monetized through affiliate marketing,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>edibleclinic@gmail.com (The Edible Clinic)</author>
       <guid>https://edibleclinic.github.io/about/</guid>
-      <description>As physicians who like to inject a dose of healthy scepticism to the myriad of skincare products that are on the shelves, we found ourselves researching the ingredients of every skincare product we bought before applying it on our skin. We want to share all our safer, simplified skincare routines that we&amp;rsquo;ve landed on, as well as all the skincare formulations and tips we&amp;rsquo;ve discovered along the way. Stay tuned.</description>
+      <description>We analyze the ingredients list of skincare using resources such as the Environmental Working Group (EWG), a non-profit organization dedicated to research and education about environmental and health concerns. EWG uses a scoring system from 1-10 to rate the known and suspected hazards of ingredients based on published literature.</description>
     </item>
     
     <item>
@@ -41,24 +40,26 @@ We do not allow our images to be directly monetized through affiliate marketing,
     </item>
     
     <item>
+      <title>Photo Sharing Policy</title>
+      <link>https://edibleclinic.github.io/photo-sharing-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>edibleclinic@gmail.com (The Edible Clinic)</author>
+      <guid>https://edibleclinic.github.io/photo-sharing-policy/</guid>
+      <description>We love and appreciate when people share our content! However, please include a link back to the corresponding page on our site, listing full credit to The Edible Clinic. Use of our photos without our permission and without proper attribution is prohibited.
+We do not allow our images to be directly monetized through affiliate marketing,whether on a website or social media platforms. Please contact us via email to seek permission for the use of any images outside of the guidelines listed above.</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>https://edibleclinic.github.io/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>edibleclinic@gmail.com (The Edible Clinic)</author>
       <guid>https://edibleclinic.github.io/privacy/</guid>
-      <description>We are committed to keeping your personal information safe. The following policy describes how your protected information is used and shared.
-OVERVIEW
-In order for us to operate our business and provide our services to you, it is sometimes necessary for us to collect or process information about you. In general terms, this information will take one or more of the following forms:
-Information that you provide to us directly, such as in the situation where you complete an online form or send us a message via our website; Information that is automatically sent to us by your computer’s internet browser when you visit our website, such as your computer’s technical address (or ‘IP address’) or information about which particular internet browser you are using and so on; Information about how you use our website or our services, such as which pages you visit, how frequently you visit the site and so forth.</description>
-    </item>
-    
-    <item>
-      <title>Why not send us a note?</title>
-      <link>https://edibleclinic.github.io/subscribe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>edibleclinic@gmail.com (The Edible Clinic)</author>
-      <guid>https://edibleclinic.github.io/subscribe/</guid>
-      <description>You can subscribe to our newletter.</description>
+      <description>Effective date: 06/01/2020
+ Introduction  Welcome to The Edible Clinic.
+The Edible Clinic (&amp;quot;us&amp;quot;, &amp;quot;we&amp;quot;, or &amp;quot;our&amp;quot;) operates edibleclinic.github.io (hereinafter referred to as &amp;quot; Service&amp;quot;).
+Our Privacy Policy governs your visit to edibleclinic.github.io, and explains how we collect, safeguard and disclose information that results from your use of our Service.
+We use your data to provide and improve Service. By using Service, you agree to the collection and use of information in accordance with this policy.</description>
     </item>
     
   </channel>
