@@ -160,7 +160,10 @@ img {
     transition: background .5s ease-in-out,padding .5s ease-in-out;
 
     /* custom centering*/
-    max-width: 768px;
+    /* max-width: 768px; */
+    max-width: 780px;
+    padding-left:6px;
+    padding-right:6px;
     margin: auto;
     overflow:hidden;
 
