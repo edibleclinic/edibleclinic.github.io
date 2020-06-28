@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /affiliates/
+
+Sitemap: http://edibleclinic.github.io/sitemap.xml
